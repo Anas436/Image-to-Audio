@@ -44,5 +44,5 @@ To run the Image Captioning and Text-to-Speech application locally, follow these
 
 ## Contributions and Support
 
-Contributions, bug reports, and feature requests are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. You can also reach out to the project maintainer, Md. Anas Mondol, at mdanasmondol432gmail.com for further assistance or inquiries.
+Contributions, bug reports, and feature requests are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. You can also reach out to the project maintainer, Md. Anas Mondol, at mdanasmondol43gmail.com for further assistance or inquiries.
    
